@@ -6,6 +6,9 @@
  This patch changes the controls so that UP casts a spell, Button 1 spawns a block, and Button 2 jumps.
 
 ## How to install
-Use the program FLIPS to install this patch. Simply follow the on-screen prompts in FLIPS and you should have no problems 
-NOTE: An ROM file for the Sega Mark III game ソロモンの鍵 王女リヒタの涙 (Solomon's Key: Tears of Princess Rihita) is required
+Use the program FLIPS to install this patch. Simply follow the on-screen prompts in FLIPS and you should have no problems.
+
+FLIPS: https://www.romhacking.net/utilities/1040/
+
+NOTE: A ROM file for the Sega Mark III game ソロモンの鍵 王女リヒタの涙 (Solomon's Key: Tears of Princess Rihita) is required
 to install this patch, and is NOT contained within this repository
