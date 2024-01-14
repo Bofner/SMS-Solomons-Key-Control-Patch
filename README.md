@@ -1,5 +1,5 @@
 # SMS Solomons Key Control Change Patch
- A patch for the Sega Mark III game ソロモンの鍵 王女リヒタの涙 (Solomon's Key: Tears of Princess Rihita) that changes the controls.
+ A patch for the Sega Mark III game ソロモンの鍵 王女リヒタの涙 (Solomon's Key: Tears of Princess Rihita) by Tecmo and Salio that changes the controls.
 
  Originally the controls are UP to jump, Button 1 to cast a spell, and Button 2 to spawn a block. 
  
